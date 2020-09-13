@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "JiffShop",
+    "slug": "jiffshop",
+    "privacy": "public",
+    "androidStatusBar": {
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "package": "com.jiffshop",
+      "versionCode": 4,
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "facebookAppId":"237454014330835",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "notification":{
+      "icon":"./assets/noticeIcon.png",
+      "androidMode":"collapse",
+      "androidCollapsedTitle":"Upgrade with: RemoteLearn"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 12
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

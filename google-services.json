@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1042584987670",
+    "firebase_url": "https://jiffstore-5b6c1.firebaseio.com",
+    "project_id": "jiffstore-5b6c1",
+    "storage_bucket": "jiffstore-5b6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042584987670:android:ddcefd547be944d274ad37",
+        "android_client_info": {
+          "package_name": "com.jiffshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042584987670-ue2op9ko5pmd2e0vu5bmqes7aqrglls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWSe0J6TAMaqzp_T75VIuVZNWZblQXOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042584987670-ue2op9ko5pmd2e0vu5bmqes7aqrglls4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042584987670:android:32d6ae91c3494f0074ad37",
+        "android_client_info": {
+          "package_name": "com.jiffstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042584987670-ue2op9ko5pmd2e0vu5bmqes7aqrglls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWSe0J6TAMaqzp_T75VIuVZNWZblQXOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042584987670-ue2op9ko5pmd2e0vu5bmqes7aqrglls4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
